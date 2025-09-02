@@ -602,7 +602,7 @@ def save_results(perfect_results, model_results, model_name):
 # --------------------------------------------------------------------
 
 if __name__ == '__main__':
-    name = "aemo_SA1_model_median_with_aemo"
+    name = "qld_delphi_volta_3"
     #start, end = "2024-12-21", "2024-12-26"
     data_df = get_data(name)#, start, end)
 
