@@ -1,0 +1,7 @@
+pulp
+coin-or-cbc
+pandas
+numpy
+matplotlib
+tqdm
+scipy
