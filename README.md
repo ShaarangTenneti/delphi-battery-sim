@@ -2,7 +2,9 @@ delphi-battery-sim is a Python framework for simulating battery dispatch using l
 
 Usage
 	1.	Update the file name in main (e.g. name = "aemo_SA1_model_median_with_aemo") to point to your CSV.
+ 
 	2.	Optionally set start and end dates to slice the dataset.
+ 
 	3.	Adjust battery parameters in BatteryParams if needed.
 
  
