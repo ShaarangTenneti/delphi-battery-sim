@@ -8,7 +8,7 @@ Usage
 1.	Update the file name in main (e.g. name = “aemo_SA1_model_median_with_aemo”) to point to your CSV.
 2.	Optionally set start and end dates to slice the dataset.
 3.	Adjust battery parameters in BatteryParams if needed.
-4.	Run with: python delphi-battery-sim.py
+4.	Run with: python lp.py
  
 
 Important: max_charge_rate and max_discharge_rate are defined with respect to the grid, not the battery’s internal transfer rate.
